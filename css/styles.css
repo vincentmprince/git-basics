@@ -1,5 +1,6 @@
 body {
     background: #c0c0c0;
+    padding: 2em;
 }
 
 li {
@@ -18,4 +19,13 @@ p {
 
 h2 {
     font-size: 5em;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 36em;
+}
+
+html {
+    background: #fff;
 }
